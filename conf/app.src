@@ -1,4 +1,4 @@
-SOURCE_URL=https://github.com/simplesamlphp/simplesamlphp/archive/v1.14.17.tar.gz
-SOURCE_SUM=06d90bd484510f287c98f98ceca3a57b1437c9e869ffde901bb5e125003ff94a
+SOURCE_URL=https://github.com/simplesamlphp/simplesamlphp/releases/download/v1.15.4/simplesamlphp-1.15.4.tar.gz
+SOURCE_SUM=349cf5d9f9ecbbced0e6f6794d26d5242fc9dafbd34268aeeb200182c24f88a5
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
